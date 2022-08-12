@@ -1,0 +1,19 @@
+2022/08/11 17:08:03 server on
+2022/08/11 17:08:03 노드 실행 : 192.168.10.35:2222 
+2022/08/11 17:08:08 msp에게 NodeAddressTable 수신 :  map[10000:192.168.10.35:10000 2222:192.168.10.35:2222 3333:192.168.10.35:3333 4444:192.168.10.35:4444]
+2022/08/11 17:08:08 [Prepare-Vote]: 1
+2022/08/11 17:08:08 add Commit to buffer
+2022/08/11 17:08:08 [Prepare-Vote]: 2
+2022/08/11 17:08:08 [Commit-Vote]: 1
+2022/08/11 17:08:08 [Commit-Vote]: 2
+2022/08/11 17:08:08 consensus count :  1
+2022/08/11 17:08:08 commit message is corrupted
+2022/08/11 17:08:08 commit message is corrupted
+2022/08/11 17:08:08 commit message is corrupted
+2022/08/11 17:11:22 add Commit to buffer
+2022/08/11 17:11:22 [Prepare-Vote]: 1
+2022/08/11 17:11:22 [Prepare-Vote]: 2
+2022/08/11 17:11:22 [Commit-Vote]: 1
+2022/08/11 17:11:22 [Commit-Vote]: 2
+2022/08/11 17:11:22 add Commit to buffer
+2022/08/11 17:11:22 consensus count :  2
