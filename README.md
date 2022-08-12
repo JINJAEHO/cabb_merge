@@ -45,26 +45,3 @@ Wallet Structure :
 	Alias   string           //별칭  
   
 
-==========================================================  
-Front RDB Table Structure :   
-
-   MEMBER  
-
-	ID varchar(50)  
-	PW varchar(50)  
-	Link varchar(200)  
-	Wallet varchar(100)  
-  
-   NOTICE  
-
-	TITLE varchar(50)  
-	Content varchar(50)  
-	RegDate date  
-	File varchar(200)    
-
-   QNA  
-	
-	TITLE varchar(200)  
-	Content varchar(500)  
-	Writer varchar(50)  
-	Reply varchar(1000)  
